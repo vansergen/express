@@ -47,7 +47,7 @@ this new member. Members who do not participate consistently at the level of a m
 ## Section 4: Roles & Responsibilities
 
 The Express TC manages all aspects both the technical and community parts of the project. Members of the TC should attend the regular meetings
-when possiable, and be available for discussion of time sensitive or important issues.
+when possible, and be available for discussion of time sensitive or important issues.
 
 ### Section 4.1 Project Operations & Management
 
